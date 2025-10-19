@@ -1,6 +1,6 @@
 # simpleCalculatorPlayWrightJS
 
-PlayWright test suite on basic web calculator app functionality (various arithmetic operations(addition/subtraction/mul;tiplication/division), memory functions). The test suite captures screenshots at the end of test case run (for logging purposes). The PlayWright also generates HTML reports at the end of each test run (to limit test suite run for a single test only, add after describe or test keyword "only" (ex. test.only / test.describe.only))
+PlayWright test suite on basic web calculator app functionality (various arithmetic operations(addition/subtraction/multiplication/division), memory functions). The test suite captures screenshots at the end of test case run (for logging purposes). The PlayWright also generates HTML reports at the end of each test run (to limit test suite run for a single test only, add after describe or test keyword "only" (ex. test.only / test.describe.only))
 
 #Tech Requirements:
  
@@ -70,3 +70,4 @@ PlayWright test suite on basic web calculator app functionality (various arithme
 1.	// Test 008 -> memory indicator operation test (the memory indicator click retrieves "developed by text" instead of stored value, test has failed)
 2.	// Test 008a -> memory store/clear (with 'C' button)/recall operation test
 3.	// Test 008b -> memory clear operation test
+
